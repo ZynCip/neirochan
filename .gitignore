@@ -1,0 +1,48 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Secrets and private runtime data
+.env
+.env.*
+*.key
+*.pem
+*.token
+secrets/
+private/
+
+# Model files
+*.gguf
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.bin
+models/
+
+# Logs and memory
+logs/
+*.log
+data/
+memory/
+mem_palace.json
+
+# Unity artifacts, if someone accidentally copies a project here
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+*.csproj
+*.sln
+*.slnx
+
+# Media raw source files
+*.mov
+*.mkv
+*.wav
+*.flac
