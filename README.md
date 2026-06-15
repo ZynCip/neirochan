@@ -2,9 +2,9 @@
 
 ### A local AI character that listens, thinks, remembers, speaks, and reacts.
 
-[Русский](#русский) · [English](#english) · [Watch the demo](media/neirochan-demo.mp4)
+[Русский](#русский) · [English](#english) · [Watch the demo](https://raw.githubusercontent.com/ZynCip/neirochan/main/media/neirochan-demo.mp4)
 
-[![Neirochan video demonstration](media/neirochan-demo-cover.jpg)](media/neirochan-demo.mp4)
+[![Neirochan video demonstration](media/neirochan-demo-cover.jpg)](https://raw.githubusercontent.com/ZynCip/neirochan/main/media/neirochan-demo.mp4)
 
 <p align="center">
   <strong>Click the image to watch the full video demonstration.</strong>
@@ -119,4 +119,3 @@ flowchart LR
 `Python` · `FastAPI` · `WebSocket` · `llama.cpp` · `Whisper` · `Unity` · `C#` · `UniVRM`
 
 Neirochan is still evolving. This public repository contains the demonstration and project overview; source code, model files, configuration, and memory data are not published.
-
